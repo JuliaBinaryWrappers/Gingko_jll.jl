@@ -1,0 +1,288 @@
+[[Gingko]]
+arch = "aarch64"
+git-tree-sha1 = "8375b68da42e527aff66a56ac68026a3d1d4d58d"
+os = "macos"
+
+    [[Gingko.download]]
+    sha256 = "6c52e330a2acf69827465b7dba666e00f05b6550611e358e6e4d91aff698ee6a"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.aarch64-apple-darwin.tar.gz"
+[[Gingko]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e429455c601bd41177822e417ac661c47422d41f"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "403c67b2cd15dd83f59ec880cae6b49a858c9bc90e68cb65dc24155cff258593"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Gingko]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "537bfbb809dbd769019a9754bb2cb9ca4ee594b8"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "d8302388a4599d3a34546e08c855dbe827edfb941e7724b3dd3325f67536fede"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Gingko]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e820148ca40c4d20edaab9d7aaf43dfb2692ee5"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "4b7960e5aefac1ae55edfb283e97ac21abfd1ec6e71f19b5407faee6c4fe3fc7"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Gingko]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0feb3f15d95c4f0881b71be6a6b069d6bbc2bc74"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "33fa5e1531235de9b190274c857d28ea9e88ea560bdf8e25e5617554a045ea21"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Gingko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af1c84494a545f35e22af706e312d9a88fb446c3"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "a271690eabf89eec209639839c6b42ad13ede8d9577b1f9238ef37221a109d75"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Gingko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ffcdfb499a96fd87c64ea3bcd00a7f81c7a1fd2"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "d648d27a64bd9d17e024b81fcbba3210b8aebf81dbebfe0e29bb6360e3fab8eb"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Gingko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6d99dcfb0d3b45e2a306c9b062be4c897acea58"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "6cea64e7c750beda8b27a354b1a41b70cc4f6f71513c5de4a9ae62896384c158"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Gingko]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f8bd2cb6727be9a3ed768616d18ef144006e380"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "2a4e578d630a2c4291b4e5ec7d20b2778ebeed5b59eeb008fd98992b7dd046bc"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Gingko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "349786a92d6c4eee2b115b2e9d94dc2e1647d70d"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "999338d6554dd558e821cd8844f3e9b735dbe48c3c5c58932d7d7f85ed3ba133"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Gingko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81b998266d3148f3353a5d26caa290f3abfcca90"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "f46563bcac78ada2222a22f2055c49e7ffd85ba50ab52282d01c71e67e044a7b"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Gingko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e73c8aee59d89d9fb488c00f98ac68f2419ecc6"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "06439c09af5b5f255935180ceecaaeda033c83af0e0f25af5abf5f7b16992bf4"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Gingko]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ccae13b629caa2174fe116812dac6f3bb345254"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "9abb708d92c8e4b9488ca9047da211f2dec6b302ae90f3f7a8ce2f9e0c87c76d"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "199a75fb55c420e1020a49f610f0d27b57d869f5"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "38de98095627fc5ffef8a55e83b6dd8700507c504bf64cb4e5a8e95c8c77fe94"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-linux-gnu-cxx03.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c84186e24c4323353dee869b9a07e9df3adde8db"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "16b765af436c61a33e35c11d65c1d16f1a19a32dec026e56af63d5140bebdc64"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-linux-gnu-cxx11.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75054f4f524d42f1802bf527946c5122247a21a8"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "33d060582af3d8aa535739afc23f5eb32c1564c53cea5a18fc7c89166c143563"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-linux-musl-cxx03.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f4cb4e85231d1519759bfaf2b7c16fa0801e647"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "a42ed31cf52ef59ded96d73c682adba7232a62ea0c57a8c0a0f3d46d3f7ec407"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-linux-musl-cxx11.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "981fb5158672c33c1c51c0c60ce714339680e9a8"
+os = "windows"
+
+    [[Gingko.download]]
+    sha256 = "6ee8387023383f9fc35a102111c2bec022c06c2e25bd896f5b49d0e650437f66"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Gingko]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e84e40e13e2d18c04e85d6145db039e633887c9"
+os = "windows"
+
+    [[Gingko.download]]
+    sha256 = "d97361577419e0b475c3f81faf7e25bcecb180a8785aca1c476b8ceb2d6372f7"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Gingko]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57ec10761a3bbbcfac909bd69c03997849e5f9c4"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "39b060125136087178530c81d620216ba3a7745dd5e4c35013a1d320670aae50"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Gingko]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f2571b7a800116176ce9aa256dfc6652ef62bb3"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "6bfdfa2b80053b7d3ad7f34ae0c0f5c59af6a4449faba3f093db59cdf6fe6c38"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+git-tree-sha1 = "68a8dd3640c65f4ebb8bfb7ad3882c237c107c65"
+os = "macos"
+
+    [[Gingko.download]]
+    sha256 = "6cb399d75d994245263dd779e3e21aac4bcb0172608d6fb1a0c03aaff760bf25"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-apple-darwin.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3fa0ca0b549eb8a3dbc226f20deeb7e9525f0262"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "65e7ad3aa47bc383fb01d00e7d506a99dca546af43fe8f9a8b23ba5ec002aa83"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b675cc392be86b7f028b1ebfdcf0fff90ffd53c"
+libc = "glibc"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "13662e6e30497d6546e8b3bf4f5844179fd5c469f9e3b71dbc12967bf8d7d180"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3704a8417ae7f4158a3050e0f13ddb4f51d4e00e"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "42febf4ae0a805c7053d97dcf9089df031a6052a39d1d3346d5993df761cf6bc"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61193145a1f531dd8f9eeeaa6395577bb851e3ee"
+libc = "musl"
+os = "linux"
+
+    [[Gingko.download]]
+    sha256 = "ea01585355dab347fbdb063f722256ebd9b5c92d804443779599311054794f1b"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+git-tree-sha1 = "fba04e310370da6659050d88806c5139b0a7cdff"
+os = "freebsd"
+
+    [[Gingko.download]]
+    sha256 = "a333c648931ec50bb199f93ab2e1baeb7ada4d87fa30f26ce2315b16bd4f640d"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-unknown-freebsd.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a923ea11fd8389ca6625d06b2b1d1fbe2db5b716"
+os = "windows"
+
+    [[Gingko.download]]
+    sha256 = "fb42129a2025bf6fb2501ad9f50927a94ca6472c434a624ae87ba36086af9706"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Gingko]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a73126597998ca66410c3837fd8c83a2f033dfa7"
+os = "windows"
+
+    [[Gingko.download]]
+    sha256 = "6e01cc64cfb276b6ff2ea58bec3556234fae9080e1222dc69a0a579015237f64"
+    url = "https://github.com/JuliaBinaryWrappers/Gingko_jll.jl/releases/download/Gingko-v1.4.0+0/Gingko.v1.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
